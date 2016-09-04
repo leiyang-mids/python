@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Mon Aug 29 18:54:43 EDT 2016:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.10.2.0 - (1582446): instance a816c00e-0156-d883-101a-00000e76f718 
+on database directory /Users/leiyang/Google Drive/1c - Python/weekly material/week_9/metastore_db with class loader sun.misc.Launcher$AppClassLoader@3ad6a0e0 
+Loaded from file:/usr/local/Cellar/hive/2.1.0/libexec/lib/derby-10.10.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.7.0_79-b15
+user.dir=/Users/leiyang/Google Drive/1c - Python/weekly material/week_9
+os.name=Mac OS X
+os.arch=x86_64
+os.version=10.11.6
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
